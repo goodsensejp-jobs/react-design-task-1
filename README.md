@@ -1,8 +1,10 @@
 # React Design Task #1
-Task description...
+Using the wireframes create a similar design with ReactJS.
 
-
-The wireframes [Google docs](https://babeljs.io/).
+### Notes
+1. In the wireframes all text marked with asterik (*) must be passed to the component.
+2. Define all PropTypes needed in every component you create.
+3. Divide your page into multiple components.
 
 ### To run
 
